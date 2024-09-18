@@ -1,6 +1,3 @@
-ChatGPT
-Project Title
-
 React Data Display App
 Overview
 
